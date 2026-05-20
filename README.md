@@ -11,6 +11,10 @@
 
 This repository contains the PyTorch code for reproducing the results in the paper [**Image Generation with a Sphere Encoder**](https://arxiv.org/abs/2602.15030).
 
+## 📢 Community & Updates
+
+* **[2026-05-15]** 🌐 **Community Extension:** Few-step loop in latent space implementation: [Efficient Image Synthesis with Sphere Latent Encoder](https://arxiv.org/abs/2605.15592).
+
 ## Install 
 
 ```bash
