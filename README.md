@@ -13,6 +13,7 @@ This repository contains the PyTorch code for reproducing the results in the pap
 
 ## 📢 Community & Updates
 
+* **[2026-09-25]** 🌐 **Community Extension:** A fast generative prior for image restoration: [SP³](https://man-sean.github.io/sp3-website/) in NeurIPS 2026.
 * **[2026-05-15]** 🌐 **Community Extension:** Few-step loop in latent space implementation: [Efficient Image Synthesis with Sphere Latent Encoder](https://arxiv.org/abs/2605.15592).
 
 ## Install 
