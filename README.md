@@ -1,3 +1,6 @@
+:dango: [2026-10-05] The sequel - Sphere Encoder 2 - is available at https://github.com/kaiyuyue/sphere2. 
+
+
 # Sphere Encoder in PyTorch
 
 [ [**arXiv**](https://arxiv.org/abs/2602.15030) ] [ [**webpage**](https://sphere-encoder.github.io) ]
