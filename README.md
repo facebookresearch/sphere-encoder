@@ -1,9 +1,3 @@
-:dango: [2026-10-05] The sequel - **Sphere Encoder 2** - is available at https://github.com/kaiyuyue/sphere2. 
-
-<br>
-
-
-
 # Sphere Encoder in PyTorch
 
 [ [**arXiv**](https://arxiv.org/abs/2602.15030) ] [ [**webpage**](https://sphere-encoder.github.io) ]
@@ -19,8 +13,9 @@ This repository contains the PyTorch code for reproducing the results in the pap
 
 ## 📢 Community & Updates
 
-* **[2026-09-25]** 🌐 **Community Extension:** A fast generative prior for image restoration: [SP³](https://man-sean.github.io/sp3-website/) in NeurIPS 2026.
-* **[2026-05-15]** 🌐 **Community Extension:** Few-step loop in latent space implementation: [Efficient Image Synthesis with Sphere Latent Encoder](https://arxiv.org/abs/2605.15592).
+* **[2026-10]** :dango: The sequel [**Sphere Encoder 2**](https://github.com/kaiyuyue/sphere2) is out. 
+* **[2026-09]** 🌐 **Community Extension:** A fast generative prior for image restoration: [**SP³**](https://man-sean.github.io/sp3-website/) in NeurIPS 2026.
+* **[2026-05]** 🌐 **Community Extension:** Few-step loop in latent space implementation: [**Sphere Latent Encoder**](https://arxiv.org/abs/2605.15592) in NeurIPS 2026.
 
 ## Install 
 
